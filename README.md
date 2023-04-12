@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @balazs9510
 - 👀 I’m interested in C#, ASP.NET, .NET CORE, ANGULAR
-- 🌱 I’m currently learning Unity
+- 🌱 I’m currently learning Vuejs & Datastructs & Algorythms
 - 💞️ I’m looking to collaborate on GameDev
 - 📫 How to reach me 95berta.balazs@gmail.com.
 - CI I've used: Circle CI, Github Actions, Teamcity (advanced level)
